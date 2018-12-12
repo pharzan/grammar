@@ -59,45 +59,34 @@ He writes **sloppily**, but insists his ideas are more important than having per
 
 * Location: To describe the location of an action:
 
-She will plant her garden **here**.
-
-Ali likes to read **inside**.
-
-The children love to play **outside**.
-
-I went **upstairs** to see my grandma.
+      She will plant her garden **here**.
+      Ali likes to read **inside**.
+      The children love to play **outside**.
+      I went **upstairs** to see my grandma.
 
 * Time: When something occured.
 
-She arrived **early** for the meeting.
-
-When I clean, I do laundry **last**.
-
-The movie is starting **now**.
-
-She came over for a visit **yesterday**.
+      She arrived **early** for the meeting.
+      When I clean, I do laundry **last**.
+      The movie is starting **now**.
+      She came over for a visit **yesterday**.
 
 * Extent of an action:
 
-I almost stopped at **McDonald's** for lunch, but I was running late.
+      I almost stopped at **McDonald's** for lunch, but I was running late.
 
 Daniel is finally tall **enough** to ride the roller coaster.
 
-I **only** take the bus to work on Mondays.
-
-I am **rather** tired after spending the day at the beach.
-
-I am **so** hungry, I could eat a cow.
+      I **only** take the bus to work on Mondays.
+      I am **rather** tired after spending the day at the beach.
+      I am **so** hungry, I could eat a cow.
 
 * Intensifier: To put more or less emphasis on a word.
 
-He **literally** wrecked his car.
-
-You **simply** don't understand.
-
-I **really** don't care what you think.
-
-She **completely** rejected his proposal.
+      He **literally** wrecked his car.
+      You **simply** don't understand.
+      I **really** don't care what you think.
+      She **completely** rejected his proposal.
 
 ## Examples:
 
@@ -121,7 +110,7 @@ She **completely** rejected his proposal.
       * clearly
       * weirdly
       * expertly
-
+      
 I love to **randomly** share interesting trivia with my friends.
 
 Ali sighed **uneasily**, knowing the weather wasn't going to be good for his vacation.
