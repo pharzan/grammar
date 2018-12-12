@@ -16,6 +16,39 @@ Adverbs: Tell us about how something is done.
     * Modify a sentence
 
 ## Types:
+
+### Adjectives:
+* Descriptive: 
+
+The **beautiful** flowers have a **funny** smell.
+The **fat** **hungry** cat.
+
+* Quantitative:
+
+I only have **one** daughter.
+I want **alot of** cookies.
+I can’t believe I ate that **whole** cake!
+
+* Demonstrative:
+
+**This** — Used to refer to a singular noun close to you.
+**That** — Used to refer to a singular noun far from you.
+**These** — Used to refer to a plural noun close to you.
+**Those** — Used to refer to a plural noun far from you.
+__Demonstrative adjectives always come before the word they’re modifying.__
+**This** bicycle is mine, and **that** one used to be mine until I sold it.
+
+* Possessive: show possession.
+
+My — Belonging to me
+His — Belonging to him
+Her — Belonging to her
+Their — Belonging to them
+Your — Belonging to you
+Our — Belonging to us
+
+### Adverbs:
+
 * Descriptive: To describe how something is done.
 
 Adam **expertly** maneuvered the components of the machine into their proper positions.
@@ -36,8 +69,17 @@ She came over for a visit **yesterday**.
 
 * Extent of an action:
 
+I almost stopped at **McDonald's** for lunch, but I was running late.
+Daniel is finally tall **enough** to ride the roller coaster.
+I **only** take the bus to work on Mondays.
+I am **rather** tired after spending the day at the beach.
+I am **so** hungry, I could eat a cow.
 
-
+* Intensifier: To put more or less emphasis on a word.
+He **literally** wrecked his car.
+You **simply** don't understand.
+I **really** don't care what you think.
+She **completely** rejected his proposal.
 
 ## Examples:
 
