@@ -35,8 +35,10 @@ I can’t believe I ate that **whole** cake!
       **That** — Used to refer to a singular noun far from you.
       **These** — Used to refer to a plural noun close to you.
       **Those** — Used to refer to a plural noun far from you.
-      __Demonstrative adjectives always come before the word they’re modifying.__
-      **This** bicycle is mine, and **that** one used to be mine until I sold it.
+      
+__Demonstrative adjectives always come before the word they’re modifying.__
+
+**This** bicycle is mine, and **that** one used to be mine until I sold it.
 
 * Possessive: show possession.
 
@@ -52,13 +54,17 @@ I can’t believe I ate that **whole** cake!
 * Descriptive: To describe how something is done.
 
 Adam **expertly** maneuvered the components of the machine into their proper positions.
+
 He writes **sloppily**, but insists his ideas are more important than having perfect penmanship.
 
 * Location: To describe the location of an action:
 
 She will plant her garden **here**.
+
 Ali likes to read **inside**.
+
 The children love to play **outside**.
+
 I went **upstairs** to see my grandma.
 
 * Time: When something occured.
@@ -74,15 +80,23 @@ She came over for a visit **yesterday**.
 * Extent of an action:
 
 I almost stopped at **McDonald's** for lunch, but I was running late.
+
 Daniel is finally tall **enough** to ride the roller coaster.
+
 I **only** take the bus to work on Mondays.
+
 I am **rather** tired after spending the day at the beach.
+
 I am **so** hungry, I could eat a cow.
 
 * Intensifier: To put more or less emphasis on a word.
+
 He **literally** wrecked his car.
+
 You **simply** don't understand.
+
 I **really** don't care what you think.
+
 She **completely** rejected his proposal.
 
 ## Examples:
@@ -109,7 +123,10 @@ She **completely** rejected his proposal.
       * expertly
 
 I love to **randomly** share interesting trivia with my friends.
+
 Ali sighed **uneasily**, knowing the weather wasn't going to be good for his vacation.
+
 It was **brutally** clear he wasn't intersted in my opinion.
+
 
 
