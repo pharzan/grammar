@@ -62,9 +62,13 @@ The children love to play **outside**.
 I went **upstairs** to see my grandma.
 
 * Time: When something occured.
+
 She arrived **early** for the meeting.
+
 When I clean, I do laundry **last**.
+
 The movie is starting **now**.
+
 She came over for a visit **yesterday**.
 
 * Extent of an action:
