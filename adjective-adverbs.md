@@ -31,12 +31,12 @@ I can’t believe I ate that **whole** cake!
 
 * Demonstrative:
 
-**This** — Used to refer to a singular noun close to you.
-**That** — Used to refer to a singular noun far from you.
-**These** — Used to refer to a plural noun close to you.
-**Those** — Used to refer to a plural noun far from you.
-__Demonstrative adjectives always come before the word they’re modifying.__
-**This** bicycle is mine, and **that** one used to be mine until I sold it.
+      **This** — Used to refer to a singular noun close to you.
+      **That** — Used to refer to a singular noun far from you.
+      **These** — Used to refer to a plural noun close to you.
+      **Those** — Used to refer to a plural noun far from you.
+      __Demonstrative adjectives always come before the word they’re modifying.__
+      **This** bicycle is mine, and **that** one used to be mine until I sold it.
 
 * Possessive: show possession.
 
