@@ -15,10 +15,13 @@ Adverbs: Tell us about how something is done.
     * Modify Quantities
     * Modify a sentence
 
+## Types:
+
+
 ## Examples:
 
 1. Adjectives:
-* Careful
+      * Careful
 * easy
 * electronic
 * angry
@@ -43,7 +46,3 @@ Ali sighed **uneasily**, knowing the weather wasn't going to be good for his vac
 It was **brutally** clear he wasn't intersted in my opinion.
 
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
