@@ -20,13 +20,13 @@ Adverbs: Tell us about how something is done.
 1. Adjectives:
 * Careful
 * easy
-        * electronic
-        * angry
-        * private
-        * physical
-        * clear
-        * black
-        * boiling
+* electronic
+* angry
+* private
+* physical
+* clear
+* black
+      * boiling
 2. Adverbs:
         * carefully
         * easily
