@@ -40,12 +40,12 @@ __Demonstrative adjectives always come before the word they’re modifying.__
 
 * Possessive: show possession.
 
-My — Belonging to me
-His — Belonging to him
-Her — Belonging to her
-Their — Belonging to them
-Your — Belonging to you
-Our — Belonging to us
+      My — Belonging to me
+      His — Belonging to him
+      Her — Belonging to her
+      Their — Belonging to them
+      Your — Belonging to you
+      Our — Belonging to us
 
 ### Adverbs:
 
