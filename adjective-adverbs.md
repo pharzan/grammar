@@ -18,8 +18,8 @@ Adverbs: Tell us about how something is done.
 ## Examples:
 
 1. Adjectives:
-        * Careful
-        * easy
+* Careful
+* easy
         * electronic
         * angry
         * private
