@@ -43,4 +43,7 @@ Ali sighed **uneasily**, knowing the weather wasn't going to be good for his vac
 It was **brutally** clear he wasn't intersted in my opinion.
 
 
-
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
